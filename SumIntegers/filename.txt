@@ -1,0 +1,8 @@
+12
+hello world
+Happy 2010
+     5
+2 again
+100.534
+200 300
+10
